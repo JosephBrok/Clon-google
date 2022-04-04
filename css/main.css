@@ -1,0 +1,42 @@
+body{
+    background-color: white;
+}
+
+div.superior{
+  text-align:end;
+  display: inline-block;
+  width: 100%;
+}
+
+div.imagen{
+    text-align:center;
+    display: inline-block;
+    width: 100%;
+  }
+
+  div.input-buscador{
+    text-align:center;
+    display: inline-block;
+    width: 100%;
+  }
+
+  div.botones-buscador{
+    text-align:center;
+    display: inline-block;
+    width: 100%;
+  }
+
+  div.leyenda-buscador{
+    text-align:center;
+    display: inline-block;
+    width: 100%;
+  }
+
+  footer{
+    background-color: black;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    color: white;
+  }
